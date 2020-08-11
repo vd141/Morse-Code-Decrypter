@@ -1,6 +1,7 @@
 Topic: ES-2 Final Project 'readme' file
 Author: Victor Dinh
 Date: 5/8/16
+Last Updated: 8/11/2020
 
 OVERVIEW:
 The files in this directory are used to convert morse code sound into visible 
